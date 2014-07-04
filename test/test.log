@@ -1,0 +1,5 @@
+[root@daveti test]# /root/python/Python-2.7.8/python ./pyxml.py
+3 country {'name': 'Liechtenstein'}
+10 country {'name': 'Singapore'}
+16 country {'name': 'Panama'}
+[root@daveti test]# 
